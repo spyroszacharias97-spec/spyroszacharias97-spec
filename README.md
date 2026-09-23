@@ -1,16 +1,26 @@
-## Hi there 👋
+# Spyros Zacharias
 
-<!--
-**spyroszacharias97-spec/spyroszacharias97-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Applied Computer Science graduate based in Cyprus.
 
-Here are some ideas to get you started:
+I enjoy building practical software and learning through real projects. I like working across both the frontend and backend and understanding how the different parts of an application work together.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+JavaScript, TypeScript, React, Next.js, Python, Java, C, C++, C#, PHP, SQL, PostgreSQL, HTML and CSS.
+
+I also have experience with Git/GitHub, MySQL, SQLite, WordPress and API integrations.
+
+## HostMetric
+
+My main project is HostMetric, a full-stack property management platform that I designed and developed from the ground up.
+
+It includes a multilingual website, property onboarding, client and property management, an administration system, content and SEO tools, and a direct booking system integrated with Guesty.
+
+Website: https://hostmetric.gr  
+Repository: https://github.com/spyroszacharias97-spec/hostmetric
+
+## A little about me
+
+I learn best by building things myself. I enjoy starting with an idea, working through the problems that come with it, and eventually turning it into something that actually works.
+
+I'm currently interested in full-stack development, software development and taking on new projects where I can keep improving.
